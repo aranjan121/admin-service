@@ -1,1 +1,1 @@
-library 'deployable-ref-pipeline'
+@Library('deployable-ref-pipeline') _
